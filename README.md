@@ -4,15 +4,12 @@ Gra polega na odgadywaniu hasła, litera po literze, zanim zostanie narysowany w
 
 ## Instrukcja
 Uruchom aplikację, uruchamiając klasę Wisielec.java.
-
 Gra wybierze losowe hasło z dostępnej listy słów.
-
 Zadaniem gracza jest odgadnąć hasło, wprowadzając pojedyncze litery.
-
-Gracz ma 6 prób na odgadnięcie hasła. Po każdej nieudanej próbie rysuje się część wisielca.
-
+Gracz ma 3 próby na odgadnięcie hasła. Po każdej nieudanej próbie rysuje się część wisielca.
 Jeśli gracz odgadnie hasło przed osiągnięciem limitu prób, wygrywa. W przeciwnym razie przegrywa.
-Konfiguracja
+
+## Konfiguracja
 Aplikacja zawiera listę dostępnych słów, z których losowane jest hasło. Możesz dostosować tę listę, edytując plik Wisielec.java i zmieniając zawartość listy words.
 
 ## Wymagania
