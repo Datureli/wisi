@@ -14,7 +14,8 @@ Gracz ma 6 prób na odgadnięcie hasła. Po każdej nieudanej próbie rysuje si�
 Jeśli gracz odgadnie hasło przed osiągnięciem limitu prób, wygrywa. W przeciwnym razie przegrywa.
 Konfiguracja
 Aplikacja zawiera listę dostępnych słów, z których losowane jest hasło. Możesz dostosować tę listę, edytując plik Wisielec.java i zmieniając zawartość listy words.
-Wymagania
+
+## Wymagania
 Aby uruchomić aplikację, potrzebujesz:
 
 Środowiska Java Development Kit (JDK)
